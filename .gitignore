@@ -47,4 +47,5 @@ obj/
 # End of https://www.gitignore.io/api/c++,codeblocks
 
 
+*.cbp
 working_dir/
